@@ -1,2 +1,2 @@
-let x = 13
-console.log(x)
+let x = 13;
+console.log(x);
