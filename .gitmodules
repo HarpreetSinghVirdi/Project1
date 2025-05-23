@@ -1,0 +1,3 @@
+[submodule "libs1/SharedLibraries"]
+	path = libs1/SharedLibraries
+	url = https://github.com/HarpreetSinghVirdi/SharedLibraries.git
